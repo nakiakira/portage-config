@@ -1,0 +1,4 @@
+www-client/firefox-bin ~amd64
+www-client/google-chrome ~amd64
+www-client/opera **
+www-client/vivaldi **

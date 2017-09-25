@@ -1,0 +1,6 @@
+# Unneeded
+bin
+postsync.d
+repo.postsync.d
+savedconfig
+package.license

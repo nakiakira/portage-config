@@ -1,0 +1,23 @@
+x11-base/xorg-server #-wayland
+>=dev-libs/openssl-1.0.2k -bindist
+# required by app-office/texstudio-2.11.2-r1::gentoo
+# required by app-office/texstudio (argument)
+>=app-text/poppler-0.45.0 qt5
+# required by dev-qt/qtsingleapplication-2.6.1_p20150629::gentoo
+# required by app-office/texstudio-2.11.2-r1::gentoo
+# required by app-office/texstudio (argument)
+>=dev-qt/qtlockedfile-2.4.1_p20150629 qt5
+# required by dev-libs/quazip-0.7.2-r1::gentoo
+# required by app-office/texstudio-2.11.2-r1::gentoo
+# required by app-office/texstudio (argument)
+>=sys-libs/zlib-1.2.11 minizip
+# required by app-office/texstudio-2.11.2-r1::gentoo
+# required by app-office/texstudio (argument)
+>=dev-qt/qtsingleapplication-2.6.1_p20150629 qt5
+# required by x11-misc/i3lock-2.8::gentoo
+# required by x11-misc/i3lock (argument)
+>=x11-libs/cairo-1.14.8 xcb
+# required by app-emulation/wine-2.0::gentoo[v4l]
+# required by @selected
+# required by @world (argument)
+>=media-libs/libv4l-1.10.1 abi_x86_32

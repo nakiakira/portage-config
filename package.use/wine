@@ -1,0 +1,10 @@
+app-emulation/wine -realtime -pulseaudio mono -udisks -gstreamer -mp3 -openal -opencl -osmesa
+dev-libs/libgpg-error abi_x86_32
+net-dns/libidn2 abi_x86_32
+dev-libs/libunistring abi_x86_32
+dev-libs/libxslt abi_x86_32
+dev-libs/libtasn1 abi_x86_32
+media-libs/lcms abi_x86_32
+dev-libs/libgcrypt abi_x86_32
+sys-apps/dbus abi_x86_32
+net-libs/gnutls abi_x86_32

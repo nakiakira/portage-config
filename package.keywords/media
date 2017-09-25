@@ -1,0 +1,6 @@
+media-sound/playerctl ~amd64
+media-sound/teamspeak-client-bin ~amd64
+media-video/ffmpeg ~amd64
+media-video/mpv ~amd64
+media-video/obs-studio ~amd64
+media-video/simplescreenrecorder ~amd64

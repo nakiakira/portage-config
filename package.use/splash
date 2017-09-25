@@ -1,0 +1,7 @@
+media-libs/libjpeg-turbo static-libs
+app-arch/bzip2 static-libs
+media-libs/libpng static-libs
+sys-libs/zlib static-libs
+virtual/jpeg static-libs
+media-libs/freetype static-libs
+media-gfx/splashutils fbcondecor

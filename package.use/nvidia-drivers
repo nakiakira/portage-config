@@ -1,0 +1,2 @@
+x11-drivers/nvidia-drivers acpi compat wayland uvm -gtk3
+x11-libs/libXvMC abi_x86_32

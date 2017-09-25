@@ -1,0 +1,2 @@
+media-libs/mesa vdpau -vulkan wayland
+media-libs/mesa gles2 #sway
