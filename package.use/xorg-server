@@ -21,3 +21,51 @@ x11-base/xorg-server #-wayland
 # required by @selected
 # required by @world (argument)
 >=media-libs/libv4l-1.10.1 abi_x86_32
+# required by app-accessibility/at-spi2-core-2.22.1::gentoo
+# required by app-accessibility/at-spi2-atk-2.22.0::gentoo
+# required by x11-libs/gtk+-3.22.16::gentoo[X]
+# required by www-client/google-chrome-61.0.3163.100::gentoo
+# required by @selected
+# required by @world (argument)
+>=x11-libs/libSM-1.2.2-r1 abi_x86_32
+# required by x11-libs/libXtst-1.2.3::gentoo
+# required by www-client/vivaldi-1.12.955.36_p1::gentoo
+# required by @selected
+# required by @world (argument)
+>=x11-proto/recordproto-1.14.2-r1 abi_x86_32
+# required by x11-libs/gtk+-3.22.16::gentoo[wayland]
+# required by www-client/google-chrome-61.0.3163.100::gentoo
+# required by @selected
+# required by @world (argument)
+>=x11-libs/libxkbcommon-0.7.1 abi_x86_32
+# required by x11-libs/gtk+-3.22.16::gentoo
+# required by www-client/google-chrome-61.0.3163.100::gentoo
+# required by @selected
+# required by @world (argument)
+>=media-libs/libepoxy-1.4.2 abi_x86_32
+# required by x11-libs/libSM-1.2.2-r1::gentoo
+# required by app-accessibility/at-spi2-core-2.22.1::gentoo
+# required by app-accessibility/at-spi2-atk-2.22.0::gentoo
+# required by x11-libs/gtk+-3.22.16::gentoo[X]
+# required by www-client/google-chrome-61.0.3163.100::gentoo
+# required by @selected
+# required by @world (argument)
+>=x11-libs/libICE-1.0.9-r1 abi_x86_32
+# required by app-accessibility/at-spi2-core-2.22.1::gentoo[X]
+# required by app-accessibility/at-spi2-atk-2.22.0::gentoo
+# required by x11-libs/gtk+-3.22.16::gentoo[X]
+# required by www-client/google-chrome-61.0.3163.100::gentoo
+# required by @selected
+# required by @world (argument)
+>=x11-libs/libXtst-1.2.3 abi_x86_32
+# required by app-accessibility/at-spi2-atk-2.22.0::gentoo
+# required by x11-libs/gtk+-3.22.16::gentoo[X]
+# required by www-client/google-chrome-61.0.3163.100::gentoo
+# required by @selected
+# required by @world (argument)
+>=app-accessibility/at-spi2-core-2.22.1 abi_x86_32
+# required by x11-libs/gtk+-3.22.16::gentoo[X]
+# required by www-client/google-chrome-61.0.3163.100::gentoo
+# required by @selected
+# required by @world (argument)
+>=app-accessibility/at-spi2-atk-2.22.0 abi_x86_32
