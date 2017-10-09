@@ -1,6 +1,7 @@
 =app-admin/keepassx-0.4.4
 app-admin/hddtemp ~amd64
 app-admin/stow ~amd64
+app-admin/sysstat ~amd64
 app-crypt/chntpw ~amd64
 app-crypt/hashcat ~amd64
 app-office/homebank ~amd64
