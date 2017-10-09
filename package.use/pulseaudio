@@ -1,4 +1,4 @@
-media-sound/pulseaudio gnome gtk abi_x86_32
+media-sound/pulseaudio gnome gtk sox realtime libsamplerate abi_x86_32
 media-libs/libsndfile abi_x86_32
 media-libs/libvorbis abi_x86_32
 net-libs/libasyncns abi_x86_32
