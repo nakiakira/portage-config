@@ -1,4 +1,5 @@
 net-dns/dnscrypt-proxy ~amd64
 net-im/discord-bin ~amd64
 net-libs/nodejs ~amd64
+net-libs/http-parser ~amd64
 net-misc/youtube-dl ~amd64
