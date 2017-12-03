@@ -1,1 +1,1 @@
-media-video/ffmpeg vdpau x264 mp3 #nvenc
+media-video/ffmpeg vdpau x264 mp3 chromium libass vpx #nvenc
