@@ -6,4 +6,6 @@ app-crypt/chntpw ~amd64
 app-crypt/hashcat ~amd64
 app-office/homebank ~amd64
 app-misc/neofetch ~amd64
-app-emulation/wine **
+app-emulation/wine ~amd64
+app-emulation/wine-staging ~amd64
+app-emulation/wine-mono ~amd64

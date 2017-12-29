@@ -1,1 +1,3 @@
 dev-libs/libuv ~amd64
+dev-libs/icu ~amd64
+dev-libs/quazip ~amd64
