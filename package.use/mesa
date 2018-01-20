@@ -1,2 +1,2 @@
-media-libs/mesa vdpau -vulkan wayland
+media-libs/mesa vdpau -vulkan wayland d3d9
 media-libs/mesa gles2 #sway
