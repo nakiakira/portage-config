@@ -1,0 +1,3 @@
+dev-qt/qt-creator cmake designer modeling git -webengine
+dev-util/cmake server
+dev-libs/botan threads
