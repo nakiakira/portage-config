@@ -1,1 +1,2 @@
+virtual/ffmpeg vdpau mp3 threads x264
 media-video/ffmpeg vdpau x264 mp3 chromium libass vpx #nvenc

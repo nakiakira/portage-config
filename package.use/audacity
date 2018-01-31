@@ -1,1 +1,1 @@
-media-sound/audacity alsa libsoxr -ffmpeg flac id3tag jack -ladspa -libsamplerate -midi mp3 -sbsms -soundtouch twolame vamp vorbis
+media-sound/audacity alsa libsoxr flac ffmpeg id3tag jack mad midi mp3 sbsms soundtouch twolame vamp vorbis
