@@ -1,3 +1,4 @@
 dev-libs/girara ~amd64
+app-text/mupdf ~amd64
 app-text/zathura-pdf-mupdf ~amd64
 app-text/zathura ~amd64
